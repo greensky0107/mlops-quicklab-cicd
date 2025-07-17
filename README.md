@@ -7,3 +7,7 @@
 ```bash
 git clone https://github.com/KennethanCeyer/mlops-quicklab-cicd.git
 ```
+
+# 참고 링크
+https://github.com/actions/setup-python.git
+https://github.com/super-linter/super-linter
