@@ -12,3 +12,7 @@ git clone https://github.com/KennethanCeyer/mlops-quicklab-cicd.git
 https://github.com/actions/setup-python.git
 
 https://github.com/super-linter/super-linter
+
+# git actions  (CD / CI workflow tool)
+
+https://docs.github.com/ko/actions
